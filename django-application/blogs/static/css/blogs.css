@@ -1,0 +1,64 @@
+.page-header {
+    background-color: lightblue;
+    margin-top: 0;
+    margin-bottom: 50px;
+    padding: 10px 10px 10px 10px;
+    font-family: 'Lobster', cursive;
+    text-align: left;
+}
+
+.top-menu {
+    color: #ffffff;
+    float: right;
+    font-size: 10pt;
+    margin-right: 2px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Lobster', cursive;
+}
+
+
+.title{
+    padding: 30px 20px 20px 40px;
+    color: lightseagreen;
+    font-style: bold;
+    font-family: 'Lobster', cursive;
+    font-size: 25pt;
+    
+}
+
+.greeting2{
+    color: white;
+    padding: 30px 20px 20px 30px;
+    font-style: italic;
+    font-family: 'Lobster', cursive;
+}
+
+.greeting3{
+    padding: 30px 20px 20px 30px;
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+
+
+.post-form textarea,
+.post-form input {
+    width: 100%;
+}
+
+.pencil{
+    color: mediumaquamarine;
+    font-size: small;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+.user{
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    color: gray;
+}
